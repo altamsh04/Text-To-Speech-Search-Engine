@@ -1,12 +1,11 @@
 <div align='center'>
-  <h1>Text-to-Speech Search Engine</h1>
+  <h1>Text-to-Speech Search Engine 💬</h1>
 </div>
 <br>
 
 <div align='center'>
   <br>
-  <img src="![Screenshot 2024-01-16 004643](https://github.com/altamsh04/Text-To-Speech-Search-Engine/assets/84860267/f75992c2-c7be-422e-8096-1deb7e0a4128)
-" alt="TS Screenshot">
+  <img src="https://github.com/altamsh04/Text-To-Speech-Search-Engine/assets/84860267/f75992c2-c7be-422e-8096-1deb7e0a4128" alt="TS Screenshot">
   <br>
 </div>
 
