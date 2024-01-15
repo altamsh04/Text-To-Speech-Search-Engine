@@ -5,7 +5,7 @@
 
 <div align='center'>
   <br>
-  <img src="https://github.com/altamsh04/Text-To-Speech-Search-Engine/assets/84860267/f75992c2-c7be-422e-8096-1deb7e0a4128" alt="TS Screenshot">
+  <img src="https://github.com/altamsh04/Text-To-Speech-Search-Engine/assets/84860267/fd7ceb4b-00ba-4a6c-9273-a8ecf066809a" alt="TS Screenshot">
   <br>
 </div>
 
